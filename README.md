@@ -1,10 +1,7 @@
-# CS503-EmbeddedSystem-Photovore
-Braitenberg's bugs (simple vehicle robot that chase/escape from a light source
+# CS503-EmbeddedSystem-SelfDrivingCar
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7k9oQS-aLwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-hi
 
 
 ![](demos/CS503FinalDemo002.gif)
