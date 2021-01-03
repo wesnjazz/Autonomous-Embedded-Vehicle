@@ -1,4 +1,10 @@
-# CS503-EmbeddedSystem-SelfDrivingCar
+# Autonomous-Embedded-Vehicle
+Self-driving vehicle with embedded systems.
+- Raspberry Pi
+- Arduino
+- Camera
+- Ultrasonic Sensor
+- Wheel Encoder
 
 
 
