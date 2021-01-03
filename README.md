@@ -5,6 +5,7 @@
 
 
 ![](demos/CS503FinalDemo002.gif)
+*The codes are credited to Pooya, Chris and Dongwon Park*
 
 YouTube video: Click the image below!
 
