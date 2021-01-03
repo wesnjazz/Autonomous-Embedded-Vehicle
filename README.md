@@ -6,6 +6,8 @@ Self-driving vehicle with embedded systems.
 - Ultrasonic Sensor
 - Wheel Encoder
 
+
+
 Relevant Skills:
 - PD control
 - Lane detection
@@ -30,4 +32,4 @@ Relevant Skills:
 
 
 
-*The codes are credited to Pooya, Chris and Dongwon Park*
+*The codes are credited to Pooya, Chris and Dongwon Park.*
