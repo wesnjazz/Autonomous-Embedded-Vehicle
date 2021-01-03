@@ -6,7 +6,7 @@ Self-driving vehicle with embedded systems.
 - Ultrasonic Sensor
 - Wheel Encoder
 
-Relevant Skills
+Relevant Skills:
 - PD control
 - Lane detection
 - Obstacle detection
