@@ -18,7 +18,7 @@ Relevant Skills:
 
 
 ### Demo:
-![](demos/CS503FinalDemo002.gif)\
+![](demos/CS503FinalDemo002.gif)  
 
 
 
